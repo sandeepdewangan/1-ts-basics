@@ -1,0 +1,24 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "- Superset of Javascript. - Adds strict and static types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepdewangan/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sandeepdewangan/typescript/issues"
+  },
+  "homepage": "https://github.com/sandeepdewangan/typescript#readme",
+  "dependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
